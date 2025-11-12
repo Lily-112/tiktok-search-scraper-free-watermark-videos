@@ -1,0 +1,11 @@
+{
+  "keyword": "viral",
+  "limit": 25,
+  "sortType": 0,
+  "region": "US",
+  "publishTime": "ALL_TIME",
+  "isDownloadVideo": false,
+  "isDownloadVideoCover": false,
+  "outputPath": "./data/sample-output.jsonl",
+  "mock": true
+}
